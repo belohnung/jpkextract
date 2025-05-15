@@ -6,4 +6,4 @@
 ## Files
 - `merge_splits.sh` - merges the splitted jpk files to one
 - `jpk.hexpat` - imhex pattern for the merged jpk file
-- `extract.py` - chatgpt written python code from my hexpat
+- `extract.py` - chatgpt written python code from my hexpat, extracts the files inside the jpk archive
